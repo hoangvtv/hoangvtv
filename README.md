@@ -34,10 +34,10 @@ My job not only is to build your website but also to make sure that it is functi
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
 
 
-<!--### 📊 Stats
+### 📊 Stats
 
- [![hoangvtv GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangvtv&show_icons=true&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<!-- [![hoangvtv GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangvtv&show_icons=true&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvtv&layout=compact&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
