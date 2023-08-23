@@ -15,7 +15,7 @@ My job not only is to build your website but also to make sure that it is functi
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangphamtan/)
 
 ### Profile Online
-[![Profile](https://img.shields.io/badge/Earth-Logo-brightgreen?logo=earth)](http://hoang-profile.surge.sh/)
+[![Profile](https://img.shields.io/badge/Webauthn-0077B5?style=for-the-badge&logo=Webauthn&logoColor=white)](http://hoang-profile.surge.sh/)
 
 ### 🧰 Languages and Tools
 
