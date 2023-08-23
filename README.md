@@ -36,9 +36,8 @@ My job not only is to build your website but also to make sure that it is functi
 
 ### 📊 Stats
 
-[![hoangvtv GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangvtv&show_icons=true&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![hoangvtv GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangvtv&show_icons=true&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
