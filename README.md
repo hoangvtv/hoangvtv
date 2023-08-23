@@ -13,8 +13,7 @@ My job not only is to build your website but also to make sure that it is functi
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamtanhoangvtv@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phamtanhoangvtv)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangphamtan/)
-[![Profile](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)](https://www.linkedin.com/in/hoangphamtan/)
-
+[![Profile]( https://img.shields.io/badge/play-station-blue.svg?logo'data:image/png;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2ViQXV0aG48L3RpdGxlPjxwYXRoIGQ9Ik0xNS4yODcyIDMuNjQxYTguNDA3IDguNDA3IDAgMDAtOC4wNSA3LjU5M2guNTVhNy44MDUgNy44MDUgMCAwMTIuMjQtNC43MTMgNS44MjUgNS4...')](http://hoang-profile.surge.sh)
 
 ### 🧰 Languages and Tools
 
