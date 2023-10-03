@@ -17,6 +17,8 @@ My job not only is to build your website but also to make sure that it is functi
 ### Profile Online (http://hoang-profile.surge.sh/)
 [Profile Online]([https://www.google.com](http://hoang-profile.surge.sh/)){:target="_blank"}
 
+[Opens in new tab](https://external.ink?to=/placeholder.com)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
