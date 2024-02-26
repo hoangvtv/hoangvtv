@@ -2,9 +2,7 @@
 
 **`Web Developer`**
 
-I'm a developer working in the field of website development. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job not only is to build your website but also to make sure that it is functional and user-friendly but at the same time attractive. Moreover, I add a personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.
+As a student graduate from the Posts and Telecommunications Institute of Technology - PTITHCM, I am eager to utilize my skills and knowledge to become a highly qualified software engineer. My immediate goal is to secure a challenging position as a Back-End and Front-End: Developer. In the long term, I aim to progress into a Senior Full-stack Developer position and ultimately evolve into a Solutions Architect, where I can lead and drive innovative solutions for complex problems.
 
 ---
 
