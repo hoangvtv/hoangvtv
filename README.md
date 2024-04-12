@@ -7,13 +7,13 @@ As a student graduate from the Posts and Telecommunications Institute of Technol
 ---
 
 ### Connect with me
-[![Portfolio](https://simpleicons.org/icons/googleearth.svg)](http://hoang-profile.surge.sh/)
+[![Portfolio]()](http://hoang-profile.surge.sh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamtanhoangvtv@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phamtanhoangvtv)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoangphamtan/)
 
-### Profile Online
-[Profile Online](http://hoang-profile.surge.sh/)
+<!---### Profile Online
+[Profile Online](http://hoang-profile.surge.sh/)  -->
 
 ### 🧰 Languages and Tools
 
