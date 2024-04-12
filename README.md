@@ -34,6 +34,7 @@ As a student graduate from the Posts and Telecommunications Institute of Technol
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-1890FF?style=for-the-badge&logo=tailwind&logoColor=white)
 
 
 ### 📊 Stats
