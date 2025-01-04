@@ -39,6 +39,7 @@ As a student graduate from the Posts and Telecommunications Institute of Technol
 ### 📊 Stats
 
 [![hoangvtv GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangvtv&show_icons=true&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangvtv&layout=compact&hide_border=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 #
