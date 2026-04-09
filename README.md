@@ -2,7 +2,7 @@
 
 **` Software Engineer`**
 
-As a student graduate from the Posts and Telecommunications Institute of Technology - PTITHCM, I am eager to utilize my skills and knowledge to become a highly qualified software engineer. My immediate goal is to secure a challenging position as a Back-End and Front-End: Developer. In the long term, I aim to progress into a Senior Full-stack Developer position and ultimately evolve into a Solutions Architect, where I can lead and drive innovative solutions for complex problems.
+Aspiring Software Engineer eager to apply my skills and knowledge to develop scalable and efficient software solutions. My goal is to grow into a Senior Software Engineer and ultimately become a Solutions Architect, driving innovation and solving complex technical challenges
 
 ---
 
